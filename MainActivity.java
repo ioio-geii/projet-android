@@ -1,5 +1,3 @@
-package com.geii_cherbourg.demonstration;
-
 import ioio.lib.api.IOIO;
 import ioio.lib.api.PwmOutput;
 import ioio.lib.api.AnalogInput;
