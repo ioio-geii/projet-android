@@ -41,7 +41,7 @@ A travers ce fichier, vous pourrez ainsi ajouter un bouton ou un texte à affich
 Dans notre exemple, nous allons utiliser un ToggleButton : il s'agit d'un bouton poussoir avec maintien.
 
 
-### Les causes possibles d'un plantage de l'application
+## Les causes possibles d'un plantage de l'application
 Lorsque vous lancer l'application Android sur votre smartphone, il arrive que l'application ne démarre pas et se ferme.
 Ce plantage provient de votre code.
 Voici les différents cas à vérifier, cela peut vous aider :
