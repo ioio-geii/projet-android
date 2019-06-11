@@ -39,3 +39,12 @@ Ce fichier est un fichier texte qui est éditable en mode visuel permettant de d
 A travers ce fichier, vous pourrez ainsi ajouter un bouton ou un texte à afficher.
 
 Dans notre exemple, nous allons utiliser un ToggleButton : il s'agit d'un bouton poussoir avec maintien.
+
+
+### Les causes possibles d'un plantage de l'application
+Lorsque vous lancer l'application Android sur votre smartphone, il arrive que l'application ne démarre pas et se ferme.
+Ce plantage provient de votre code.
+Voici les différents cas à vérifier, cela peut vous aider :
+- Vous avez défini le mauvais type de variable !
+- Mauvaise utilisation d'une fonction
+- Utilisation d'une boucle infinie
