@@ -38,7 +38,7 @@ Ce fichier est un fichier texte qui est éditable en mode visuel permettant de d
 
 A travers ce fichier, vous pourrez ainsi ajouter un bouton ou un texte à afficher.
 
-Dans notre exemple, nous allons utiliser un ToggleButton : il s'agit d'un bouton poussoir avec maintien.
+Par exemple, nous pouvons utiliser un ToggleButton : il s'agit d'un bouton poussoir avec auto-maintien. Pour qu'il puisse être positionné selon l'emplacement que vous souhaitez, vous devez contraindre ce bouton au cadre de l'application.
 
 ![alt tag](https://raw.githubusercontent.com/ioio-geii/projet-android/master/Capture%20d%E2%80%99e%CC%81cran%202019-04-01%20a%CC%80%2016.32.20.png)
 
