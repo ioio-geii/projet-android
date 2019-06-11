@@ -40,6 +40,11 @@ A travers ce fichier, vous pourrez ainsi ajouter un bouton ou un texte à affich
 
 Dans notre exemple, nous allons utiliser un ToggleButton : il s'agit d'un bouton poussoir avec maintien.
 
+![alt tag](https://raw.githubusercontent.com/ioio-geii/projet-android/master/Capture%20d%E2%80%99e%CC%81cran%202019-04-01%20a%CC%80%2016.32.20.png)
+
+### MainActivity.java
+
+
 
 ## Les causes possibles d'un plantage de l'application
 Lorsque vous lancer l'application Android sur votre smartphone, il arrive que l'application ne démarre pas et se ferme.
